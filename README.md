@@ -9,7 +9,7 @@
 ![postgresql](https://img.shields.io/badge/SQL-100000?style=flat&logo=postgresql&logoColor=FFFFFF&labelColor=5C5C5C&color=CC2927)
 
 
-Link to the Kaggle competition:  https://www.kaggle.com/competitions/playground-series-s4e10
+Link to the Kaggle competition:  [Kaggle](https://www.kaggle.com/competitions/playground-series-s4e10)
 
 
 ![kaggle](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)
@@ -21,12 +21,19 @@ The dataset for this competition (both train and test) was generated from a deep
 # MY APPROACH
 
 1- Load the necessary libraries
+
 2- Load dataframes to start exploring
+
 3- Quick overview to the dataframes using info() and describe() to get statistical viewpoint
+
 4- Checking null values. It is a playground competition so no null values.
+
 5- Preprocessing: process categorical features and feature engineering
+
 6- Three base models: XGBoost, Catboost and LGBM
+
 7- Stacking: using a Logistic Regression as meta model
+
 8- Predict on test and create submission file
 
 Check importance of each model for the meta model:
