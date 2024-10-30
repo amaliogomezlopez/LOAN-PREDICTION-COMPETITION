@@ -12,7 +12,7 @@
 Link to the Kaggle competition:  https://www.kaggle.com/competitions/playground-series-s4e10
 
 
-![kaggle]([https://i.postimg.cc/HxLVpmrP/elmundo.png](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png))
+![kaggle](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)
 
 # DATASET DESCRIPTION
 
@@ -30,7 +30,7 @@ The dataset for this competition (both train and test) was generated from a deep
 8- Predict on test and create submission file
 
 Check importance of each model for the meta model:
-![importance.png][([https://i.postimg.cc/7ZMbp8Mg/importance.png](https://i.postimg.cc/7ZMbp8Mg/importance.png))](https://i.postimg.cc/7ZMbp8Mg/importance.png)
+![importance.png](https://i.postimg.cc/7ZMbp8Mg/importance.png)
 
 AUC:
 
