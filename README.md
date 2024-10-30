@@ -34,7 +34,7 @@ Check importance of each model for the meta model:
 
 AUC:
 
-![kaggle]([https://i.postimg.cc/HxLVpmrP/elmundo.png](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png))
+![AUC](https://i.postimg.cc/bYkSfBPN/auc.png)
 
 # CONTACT
 [Amalio Gómez](https://amaliogomezlopez.com/)
